@@ -1,2 +1,2 @@
-# ds202-Cael Leistikow
-ode to an academic advisor
+# ode to an academic advisor
+ds202-Cael
